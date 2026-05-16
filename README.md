@@ -1,4 +1,5 @@
-## Hi there 👋
+
+## Hi! I'm Jean Treves, graduate from Columbia University in a M.A. Quantitative Methods. I'm specialised in Time-series forecasting, Bayesian inference, and NLP/ML applied to financial markets. I also develop algorithms and autonomous scripts in my free time. Currently seeking quantitative / applied scientist roles — Zurich · Geneva · London.
 
 <!--
 **Raeus1901/Raeus1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
