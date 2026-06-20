@@ -18,9 +18,10 @@ Certified NFA Series 3. I also write autonomous scripts and algorithms in my spa
 
 | | |
 |---|---|
+| 📡 **[AI-Infra Model Drift](https://github.com/Raeus1901/ai-infra-model-drift)** | Walk-forward drift monitor on 10 AI / semiconductor equities — SARIMAX · XGBoost · LSTM with PSI / KS / Page-Hinkley / rolling-RMSE detectors across 4 macro regimes (2014–2026). Built to *measure* the sentiment-return drift the thesis below first observed. |
 | 🔬 **[FinBERT × SARIMAX](https://github.com/Raeus1901/finbert-sarimax-energy-forecasting)** | M.A. thesis — earnings-call sentiment vs renewable energy returns. Sentiment coefficient sign inverted pre/post-COVID (+79 → −90). |
-| 🍷 **[Wine Recommender](https://github.com/Raeus1901/wine_bot)** | Constraint-satisfaction chatbot. Relaxation fallback raises coverage 27% → 66% — same logic as portfolio optimization under active constraints. |
 | 📚 **[Columbia QMSS Coursework](https://github.com/Raeus1901/columbia-qmss-coursework)** | Bayesian stats (Stan/brms), ML, NLP, time series, social network analysis — 6 modules, 24+ labs. |
+| 🍷 **[Wine Recommender](https://github.com/Raeus1901/wine_bot)** | Constraint-satisfaction chatbot. Relaxation fallback raises coverage 27% → 66% — same logic as portfolio optimization under active constraints. |
 
 ---
 
