@@ -10,7 +10,7 @@ Targeting roles in London · Zurich · Geneva.
 
 I build **time-series models**, **Bayesian inference pipelines**, and **NLP systems applied to financial markets**.
 Previously Trade Analyst at **Marex** (energy derivatives, PnL tracking, sentiment tooling for morning reports).
-Certified NFA Series 3. I also write autonomous scripts and algorithms in my spare time.
+Certified NFA Series 3. 
 
 ---
 
