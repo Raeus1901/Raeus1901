@@ -2,7 +2,6 @@
 
 M.A. Quantitative Methods in Social Sciences, Columbia University  
 (Major GPA: 4.0 · A+ in NLP & Machine Learning · Overall: 3.92)  
-Currently based in France after living, studying, and working across five countries.
 Targeting roles in London · Zurich · Geneva.
 
 
