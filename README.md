@@ -21,6 +21,7 @@ Certified NFA Series 3.
 | 🔬 **[FinBERT × SARIMAX](https://github.com/jean-treves/finbert-sarimax-energy-forecasting)** | M.A. thesis — earnings-call sentiment vs renewable energy returns. Sentiment coefficient sign inverted pre/post-COVID (+79 → −90). |
 | 🍷 **[Wine Recommender](https://github.com/jean-treves/wine_bot)** | Constraint-satisfaction chatbot. Relaxation fallback raises coverage 27% → 66% — same logic as portfolio optimization under active constraints. |
 | 🎬 **[Dynamic Video Generator](https://github.com/jean-treves/dynamic-video-generator)** | Fully local multimodal gateway — one same-origin proxy in front of LTX-Video, Draw Things and Ollama. Budgets work in pixel-frames rather than seconds, because that is what decides whether a 16 GB machine swaps: **12 s/step at 35 M against 104 s at 221 M**, a ≈9× cliff rather than a gradual slowdown. [Interactive architecture](https://jean-treves.github.io/dynamic-video-generator/architecture.html). |
+| 📱 **[MiniVid](https://github.com/jean-treves/MiniVid)** | The same idea on a phone, offline — a photo and a prompt become a short clip, entirely on device. Core ML Stable Diffusion frames, interpolation, camera moves, a recorded voiceover and an mp4 export; nothing leaves the iPhone except an optional community feed you point at your own backend. |
 
 ---
 
